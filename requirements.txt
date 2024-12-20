@@ -16,6 +16,7 @@ ntgcalls==1.1.2
 pykeyboard
 pyrofork
 python-dotenv
+uvloop
 pyyaml
 requests
 speedtest-cli
@@ -25,4 +26,3 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-uvloop
